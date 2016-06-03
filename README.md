@@ -1,0 +1,2 @@
+# ViewPagerBanner
+使用ViewPager实现banner循环滚动效果
